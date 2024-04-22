@@ -6,7 +6,7 @@ THE ABOVE IS MY PREJECT INTERFACE OF THE APPLICATION THAT HELP STUDENT AT FULLA 
 
                        THE INTERFACE OF THE APPLICATION HAVE THE FOLLOWING COLUMN
                        
-1. DATE OF APPLICATION ; which help to know when do the student the apply.
+1. DATE OF APPLICATION ; This help the administration which to know the date when do the student apply.
 2. FIRST NAME AND LAST NAME; this part help student to enter their fullname so that the student names can be store in the system.
 3. DATE OF BIRTH ; this also help student to enter their date of birth.
 4. GENDER ; this help the administrisation to know the gender of the student who applied Male or Female.
