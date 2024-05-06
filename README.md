@@ -18,5 +18,7 @@ THE ABOVE IS MY PREJECT INTERFACE OF THE APPLICATION THAT HELP STUDENT AT FULLA 
 
      includsion; I created this application for my perivous hight school called FULLA SENIOR SECONDARY SCHOOL ,located in Nimule, South Sudan and this can help the student and administration of the easy their manual work cause student can register any where they want as longer as they have the link of the application and internet in their phone of computer.
 
-   THE BELOW IS THE DATABASE WHEERE ALL THE ALL THE INFORMATION SUBMITED BY STUDENT ARE STORE 
+                           THE BELOW IS THE DATABASE WHEERE ALL THE ALL THE INFORMATION SUBMITED BY STUDENT ARE STORE
+
+   
    ![screenshot](https://github.com/Lagu2/STUDENT.REG/blob/main/Annotation%202024-05-06%20030653.png)
